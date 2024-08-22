@@ -1,1 +1,2 @@
-# 153-yuri
+# LISTA DE ARQUIVOS DA DISCIPLINA DE LÓGICA DE PROGAMAÇÃO
+exercicio 1 foi swhitch case
